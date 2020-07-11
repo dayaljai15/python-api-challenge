@@ -7,10 +7,10 @@
    "outputs": [],
    "source": [
     "# OpenWeatherMap API Key\n",
-    "weather_api_key = \"86e76fb2cc5aa16de24e105e15c4893a\"\n",
+    "weather_api_key = \"\"\n",
     "\n",
     "# Google API Key\n",
-    "g_key = \"AIzaSyCpiQ4EdZ0nuFzOiJyg2NDpekzcKlCbJvA\"\n"
+    "g_key = \"\"\n"
    ]
   }
  ],
